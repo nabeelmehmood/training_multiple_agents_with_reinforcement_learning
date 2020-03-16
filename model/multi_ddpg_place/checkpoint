@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-30-2019-06-01 15:27:31.ckpt"
+all_model_checkpoint_paths: "model-10-2019-06-01 15:25:01.ckpt"
+all_model_checkpoint_paths: "model-15-2019-06-01 15:25:38.ckpt"
+all_model_checkpoint_paths: "model-20-2019-06-01 15:26:16.ckpt"
+all_model_checkpoint_paths: "model-25-2019-06-01 15:26:54.ckpt"
+all_model_checkpoint_paths: "model-30-2019-06-01 15:27:31.ckpt"
