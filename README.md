@@ -11,7 +11,7 @@ Video of the environment:
 The project consists of a MuJoCo robotics environment 
 
 Contributers:
-Nabeel Mehmood
-Alizeh Asim
-Lalain Ahmed
-Nimra Arif
+* Nabeel Mehmood
+* Alizeh Asim
+* Lalain Ahmed
+* Nimra Arif
