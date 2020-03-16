@@ -2,7 +2,7 @@
 
 This project is a WIP
 
-Detailed Report of the projec available here:
+Detailed Report of the project available here:
 [Detailed Report](https://drive.google.com/file/d/1-8hEp2FBW_LcW19fVXIqbeqbVx2C3x0d/view?usp=sharing)
 
 Video of the environment:
